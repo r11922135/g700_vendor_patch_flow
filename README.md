@@ -1,0 +1,1 @@
+# g700_vendor_patch_flow
